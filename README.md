@@ -1,5 +1,5 @@
 # Hello 👋, I'm Somalin Samal
-### data science student
+### DATA SCIENCE STUDENT
 
 I am currently in my pre-final year of B.Tech in Computer Science and Engineering with a specialization in Data Science. With a strong interest in analytics, artificial intelligence, and solving real-world problems using data, I am continuously working on expanding my technical and analytical skillset.
 
