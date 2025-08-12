@@ -42,7 +42,7 @@ Soft Skills:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somalin2004&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Somalin2004&theme=dark" alt="GitHub Streak" />
+
 
 
 
